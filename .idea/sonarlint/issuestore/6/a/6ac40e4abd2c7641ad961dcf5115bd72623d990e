@@ -1,0 +1,9 @@
+
+M	java:S106
+"9Replace this use of System.out or System.err by a logger.(äÀÄ
+<	java:S131""Add a default case to this switch.(÷·Ä¢úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(°‚Æí
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ğ¥˜¯şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ã‰ë¬
+N	java:S106"9Replace this use of System.out or System.err by a logger.(·š÷¤
+N	java:S106"9Replace this use of System.out or System.err by a logger.(›ÎÇ”

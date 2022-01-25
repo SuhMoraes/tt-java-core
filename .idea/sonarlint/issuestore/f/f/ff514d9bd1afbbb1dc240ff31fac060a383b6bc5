@@ -1,0 +1,40 @@
+
+V
+java:S1854";Remove this useless assignment to local variable "dolarHj".(Ä¾Âêÿÿÿÿÿ
+L
+java:S1854	"6Remove this useless assignment to local variable "pi".(¼èâ´
+R
+java:S1854"<Remove this useless assignment to local variable "anoAtual".(äºïŠ
+O
+java:S1854"9Remove this useless assignment to local variable "idade".(²ª¿¬
+@
+java:S1481"*Remove this unused "idade" local variable.(²ª¿¬
+C
+java:S1481"-Remove this unused "anoAtual" local variable.(äºïŠ
+G
+java:S1481"1Remove this unused "estaChovendo" local variable.(þ§µ
+=
+java:S1481	"'Remove this unused "pi" local variable.(¼èâ´
+D
+java:S1481
+".Remove this unused "letraNome" local variable.(ûé
+G
+java:S1481",Remove this unused "dolarHj" local variable.(Ä¾Âêÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ù¨†µ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾’ µÿÿÿÿÿ
+D
+java:S1481".Remove this unused "anoAtual2" local variable.(êØÑü
+I
+java:S1481"3Remove this unused "qtdVendasUmdia" local variable.(ÝÃù
+J
+java:S1481"/Remove this unused "boletoPago" local variable.(‡¹Áûùÿÿÿÿ
+M
+java:S1481"2Remove this unused "tipoPagamento" local variable.(™Ë¢„ÿÿÿÿÿ
+C
+java:S1481"(Remove this unused "doc" local variable.(Ð’±¿ùÿÿÿÿ
+D
+java:S1481")Remove this unused "cpnj" local variable.(áŸêùüÿÿÿÿ
+L
+java:S1481"1Remove this unused "valorProduto" local variable.( ØÔËúÿÿÿÿ
+L
+java:S1481"1Remove this unused "codigoBarras" local variable.(’ÌéÇøÿÿÿÿ
