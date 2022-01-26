@@ -1,4 +1,4 @@
-package com.exemplo.playground;
+package com.exemplo.playground.aula02;
 
 public class DoWhile {
     public static void main(String[] args) {

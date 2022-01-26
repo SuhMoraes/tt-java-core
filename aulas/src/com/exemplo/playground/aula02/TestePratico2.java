@@ -1,4 +1,4 @@
-package com.exemplo.playground;
+package com.exemplo.playground.aula02;
 
 import java.util.Scanner;
 
@@ -26,6 +26,8 @@ public class TestePratico2 {
             case 5:
                 System.out.println("5 - Excelente");
                 break;
+            default:
+                System.out.println("Sem Avaliação");
 
         }
 
