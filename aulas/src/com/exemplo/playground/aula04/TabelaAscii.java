@@ -1,9 +1,14 @@
 package com.exemplo.playground.aula04;
 
+import java.io.IOException;
+import java.nio.file.Path;
+import java.util.Scanner;
+
 public class TabelaAscii {
     public static void main(String[] args) {
         converteMinusculo('A');
         converte();
+
     }
 
 
@@ -28,4 +33,6 @@ public class TabelaAscii {
         }
         System.out.println(stringBuilder);
     }
+
+
 }
