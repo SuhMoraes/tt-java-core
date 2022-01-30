@@ -1,4 +1,4 @@
-package com.exemplo.playground.aula01;
+package aula01;
 
 public class MinhaPrimeiraClasseTT {
     public static void main(String[] args){

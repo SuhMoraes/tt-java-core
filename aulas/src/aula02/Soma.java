@@ -1,4 +1,4 @@
-package com.exemplo.playground.aula02;
+package aula02;
 
 public class Soma {
     public static void main(String[] args) {

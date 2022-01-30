@@ -1,4 +1,4 @@
-package com.exemplo.playground.aula02;
+package aula02;
 
 public class While2 {
 

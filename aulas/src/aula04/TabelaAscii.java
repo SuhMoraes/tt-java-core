@@ -1,8 +1,4 @@
-package com.exemplo.playground.aula04;
-
-import java.io.IOException;
-import java.nio.file.Path;
-import java.util.Scanner;
+package aula04;
 
 public class TabelaAscii {
     public static void main(String[] args) {

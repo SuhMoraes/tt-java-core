@@ -1,4 +1,4 @@
-package com.exemplo.playground.aula03.exercicios;
+package aula03.exercicios;
 
 import java.util.Scanner;
 

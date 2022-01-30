@@ -1,4 +1,4 @@
-package com.exemplo.playground.aula04.exercicios;
+package aula04.exercicios;
 
 import java.io.IOException;
 import java.nio.file.Path;

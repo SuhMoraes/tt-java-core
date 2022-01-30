@@ -1,4 +1,4 @@
-package com.exemplo.playground.aula03;
+package aula03;
 
 public class Array {
     public static void main(String[] args) {

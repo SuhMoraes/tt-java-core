@@ -1,4 +1,4 @@
-package com.exemplo.playground.aula02;
+package aula02;
 
 import java.util.Scanner;
 

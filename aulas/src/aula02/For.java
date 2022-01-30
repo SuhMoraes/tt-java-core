@@ -1,4 +1,4 @@
-package com.exemplo.playground.aula02;
+package aula02;
 
 public class For {
     public static void main(String[] args) {
